@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1, 
+    "name": "Galaxy S9 evolve",
+    "updated_at" 150000230, 
+    "manufacturer": "Samsung"
+    "price": 275
+  }, {
+    "id": 2, 
+    "name": "Iphone X1000", 
+    "updated_at" 150000230,
+    "manufacturer": "Apple"
+    "price": 15000
+  }, {
+    "id": 3, 
+    "name": "Tecno 10X pro", 
+    "updated_at" 150345230,
+    "price": 90
+  }, {
+    "id": 4, 
+    "name": "Iphone Give me your money", 
+    "updated_at" 150000230,
+    "manufacturer": "Apple"
+    "price": 1000000
+  }
+]
